@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @okmegha
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Testing techniques
-- 💞️ I’m looking to collaborate on Selenium
+- 💞️ I’m looking to collaborate on Appium and Cypress
 - 📫 How to reach me megha1822@gmail.com
 
 <!---
